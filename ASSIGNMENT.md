@@ -31,8 +31,8 @@ The task should take about 3-4 hours to complete, and you will be given a week t
 3. User is able to update existing addresses
 4. User is able to delete one
     - [*] User is able to delete multiple addresses
-    - [*] User is able to authenticate with a username and a password
-5. [*] User can log out
+5. User is able to authenticate with a username and a password
+6. [*] User can log out
 
 [*] Bonus requirements - feel free to give any these a go if you have any spare time, but we don’t expect you to complete them all
 

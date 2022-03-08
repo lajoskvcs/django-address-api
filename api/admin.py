@@ -1,3 +1,10 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Address
+
+
+class AddressAdmin(admin.ModelAdmin):
+    list_display = ('name', 'user', 'created_at')
+
+
+admin.site.register(Address, AddressAdmin)
